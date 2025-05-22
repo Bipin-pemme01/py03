@@ -35,6 +35,10 @@ This project demonstrates how to:
 - `parking`
 
 ---
+### 🖥️ App UI
+![Streamlit UI](https://raw.githubusercontent.com/Bipin-pemme01/py03/main/ML/Linear_reg/HousePricePrediction/screenshot_app.png)
+
+
 
 ## ▶️ How to Run the App
 
